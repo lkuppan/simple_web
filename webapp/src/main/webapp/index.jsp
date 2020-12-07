@@ -1,3 +1,3 @@
 <h1> Hello, Welcome to Simple DevOps demo !!   </h1>
 <h2> Artifact is deployed on this Target machine successfully ! </h2>
-<h2> Continous integration </h2>
+<h2> Continous integration ..........</h2>
